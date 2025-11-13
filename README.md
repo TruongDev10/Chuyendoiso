@@ -83,8 +83,6 @@ flask db upgrade
 flask run
 ```
 
-> ✅ Server Flask sẽ chạy tại: [http://127.0.0.1:5000](http://127.0.0.1:5000)
-
 ---
 
 ### 🧠 3. Cài đặt & Chạy AI Chatbot (RASA)
@@ -112,8 +110,6 @@ Mở terminal mới:
 ```bash
 rasa run --enable-api --cors "*"
 ```
-
-> ✅ RASA Server chạy tại: [http://localhost:5005](http://localhost:5005)
 
 ---
 
@@ -178,16 +174,3 @@ flutter run
 - Bùi Văn Trường  
 
 ---
-
-## 📜 Giấy phép (License)
-
-Dự án được phát hành theo giấy phép **MIT License** – bạn có thể sử dụng, chỉnh sửa và phân phối tự do với ghi công tác giả.
-
----
-
-## 🌟 Gợi ý mở rộng tương lai
-
-- Tích hợp **OCR** để quét hóa đơn tự động.  
-- Thêm **Machine Learning** dự đoán chi tiêu hàng tháng.  
-- Kết nối **ví điện tử** (MoMo, ZaloPay) để tự động ghi nhận giao dịch.  
-- Giao diện **Dark Mode** và **đa ngôn ngữ (Việt/Anh)**.  
