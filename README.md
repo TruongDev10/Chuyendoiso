@@ -50,7 +50,6 @@ Trước khi cài đặt, đảm bảo bạn đã cài:
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Python 3.8 – 3.10](https://www.python.org/downloads/)
-- [PostgreSQL](https://www.postgresql.org/download/)
 - [Git](https://git-scm.com/downloads)
 
 ---
