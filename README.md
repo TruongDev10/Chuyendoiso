@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="center">
-   💬 ỨNG DỤNG CHAT ClIENT-SERVER SỬ DỤNG TCP
+   💰 ỨNG DỤNG PHÂN TÍCH DỮ LIỆU & AI TRONG QUẢN LÝ CHI TIÊU & TIẾT KIỆM CHO SINH VIÊN
 </h2>
 
 <div align="center">
@@ -20,8 +20,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-
-# 💰 Ứng dụng Phân tích Dữ liệu & AI trong Quản lý Chi tiêu & Tiết kiệm cho Sinh viên
 
 ## 📖 Giới thiệu
 
