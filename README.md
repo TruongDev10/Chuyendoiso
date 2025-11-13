@@ -139,16 +139,6 @@ flutter run
 
 ---
 
-## 📂 Cấu trúc thư mục (Project Structure)
-
-```
-├── mobile_app/        # Ứng dụng Flutter (Frontend)
-├── backend/           # Flask API & Database Models
-├── ai_chatbot/        # Cấu hình & dữ liệu RASA (AI Chatbot)
-├── docs/              # Tài liệu báo cáo, biểu đồ, thiết kế
-└── README.md          # Hướng dẫn sử dụng
-```
-
 ---
 
 ## 🧑‍💻 Công nghệ sử dụng
