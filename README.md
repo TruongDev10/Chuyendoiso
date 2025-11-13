@@ -138,7 +138,6 @@ flutter run
 ```
 
 ---
-
 ---
 
 ## 🧑‍💻 Công nghệ sử dụng
